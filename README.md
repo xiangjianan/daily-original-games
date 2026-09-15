@@ -1,6 +1,6 @@
 # Daily Original Games
 
-每天调研热门休闲游戏的复玩机制，设计并实现一款原创、可玩的 HTML demo。
+首要目标：每天完成一款完整可玩的原创 HTML 游戏 demo，实际试玩检查后推送并部署到 GitHub Pages。热门游戏调研与复玩机制分析仅服务于原创设计；调研、方案或不可玩的脚手架均不算完成。
 
 ## 游戏索引
 
@@ -20,6 +20,10 @@
 - `tests.md`：实际执行的浏览器测试、结果与已知限制。
 
 ## 试玩
+
+在线游戏索引：https://xiangjianan.github.io/daily-original-games/
+
+GitHub Pages 从 main 分支根目录部署。每日交付需同时更新首页游戏入口，并等待部署成功、验证线上游戏 URL 可访问。
 
 克隆或下载仓库后，直接打开对应日期的 `index.html`。如游戏需要 HTTP 环境，在仓库根目录运行 `python3 -m http.server 8000`，访问 `http://localhost:8000/games/YYYY-MM-DD/`。
 

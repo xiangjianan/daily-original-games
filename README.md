@@ -23,7 +23,7 @@
 
 克隆或下载仓库后，直接打开对应日期的 `index.html`。如游戏需要 HTTP 环境，在仓库根目录运行 `python3 -m http.server 8000`，访问 `http://localhost:8000/games/YYYY-MM-DD/`。
 
-这是私有仓库。GitHub 文件链接用于访问或下载源码，并非在线试玩页面。
+这是公开仓库。GitHub 文件链接用于访问或下载源码，并非在线试玩页面。
 
 ## 每日交付标准
 

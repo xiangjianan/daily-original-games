@@ -1,5 +1,3 @@
-# 按日期归档的游戏
+# 历史目录
 
-日期统一采用 Asia/Shanghai。每个日期目录包含 index.html、research.md、design.md、tests.md，以及需要的 assets/。
-
-只有完成实际试玩检查的游戏才加入根目录 README 的游戏索引。
+保留此目录以维护已有成果。最新方案改为每天创建独立公开仓库 `xiangjianan/daily-original-game-YYYY-MM-DD`，并各自发布 GitHub Pages。新游戏不再存放于本目录。详见根目录 README 的总索引及交付标准。

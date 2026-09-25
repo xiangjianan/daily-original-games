@@ -10,6 +10,7 @@
 
 | 日期（北京时间） | 游戏 | 核心玩法 | 在线试玩（Pages） | 独立公开仓库 |
 | --- | --- | --- | --- | --- |
+| 2026-09-25 | 邻数点心铺 | 相邻算数配对与邻格升温 | [试玩](https://xiangjianan.github.io/daily-original-game-2026-09-25/) | [仓库](https://github.com/xiangjianan/daily-original-game-2026-09-25) |
 | 2026-09-24 | 回声织灯 | 双灯联动、随机灯谱与省步挑战 | [试玩](https://xiangjianan.github.io/daily-original-game-2026-09-24/) | [仓库](https://github.com/xiangjianan/daily-original-game-2026-09-24) |
 | 2026-09-23 | 借风送星 | 风向落点与分段交付 | [试玩](https://xiangjianan.github.io/daily-original-game-2026-09-23/) | [仓库](https://github.com/xiangjianan/daily-original-game-2026-09-23) |
 | 2026-09-16 | 三色雨庭 | 三盆异色收集、预览与轮换休眠 | [试玩](https://xiangjianan.github.io/daily-original-game-2026-09-16/) | [仓库](https://github.com/xiangjianan/daily-original-game-2026-09-16) |

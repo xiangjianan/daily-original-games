@@ -10,6 +10,7 @@
 
 | 日期（北京时间） | 游戏 | 核心玩法 | 在线试玩（Pages） | 独立公开仓库 |
 | --- | --- | --- | --- | --- |
+| 2026-09-28 | 苔格花房 | 双格种植与方圃收获 | [试玩](https://xiangjianan.github.io/daily-original-game-2026-09-28/) | [仓库](https://github.com/xiangjianan/daily-original-game-2026-09-28) |
 | 2026-09-27 | 星图回航 | 逆序路线记忆与六段挑战 | [试玩](https://xiangjianan.github.io/daily-original-game-2026-09-27/) | [仓库](https://github.com/xiangjianan/daily-original-game-2026-09-27) |
 | 2026-09-26 | 昼夜邮局 | 昼夜配对与堆叠连锁合成 | [试玩](https://xiangjianan.github.io/daily-original-game-2026-09-26/) | [仓库](https://github.com/xiangjianan/daily-original-game-2026-09-26) |
 | 2026-09-25 | 邻数点心铺 | 相邻算数配对与邻格升温 | [试玩](https://xiangjianan.github.io/daily-original-game-2026-09-25/) | [仓库](https://github.com/xiangjianan/daily-original-game-2026-09-25) |

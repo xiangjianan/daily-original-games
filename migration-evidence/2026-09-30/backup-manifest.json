@@ -1,0 +1,138 @@
+[
+  {
+    "source": "daily-original-game-2026-09-16",
+    "date": "2026-09-16",
+    "sha": "d34e600c323c40f4a75da3cfb3163f369da79f0a",
+    "backup": "/Users/xiangjianan/Documents/Codex/game-repository-backups/2026-09-30/daily-original-game-2026-09-16",
+    "bundle_sha256": "a032e041846dee7063bf53c2467e03dc439e5bb0eeb16898f663d233c746aefd",
+    "files": {
+      "README.md": "1126d02582aaa18e23fd3a21ae18efb008b0566f3079a2b29fc838ac0831ec0c",
+      "design.md": "50a0a24bd38864a39fd94faf822e7eb421c5b854c6a24706d4cc88c4a9d35e71",
+      "index.html": "ac527edd129f886c14cbba8666e80a1a6ea660ea55e56be44111e4a9b4a051c5",
+      "research.md": "ecb177e6114ae16e78a2ebec404b88061340181c0cc78640e40e18b17df91a0b",
+      "tests.md": "79a75da9e8b7e3edc5f1b29900474e84df9e9d2ffbf1aa37e5f295d4738e3e77"
+    },
+    "refs": "d34e600c323c40f4a75da3cfb3163f369da79f0a refs/heads/main",
+    "new_url": "https://xiangjianan.github.io/daily-original-games/2026-09-16/",
+    "copy_verified": true
+  },
+  {
+    "source": "daily-original-game-2026-09-23",
+    "date": "2026-09-23",
+    "sha": "8b4e589261ea4110e9e5f73b726b1fce7f912b79",
+    "backup": "/Users/xiangjianan/Documents/Codex/game-repository-backups/2026-09-30/daily-original-game-2026-09-23",
+    "bundle_sha256": "8b364bee09a7c157decae2c9f4c20ce7d107b3b6f4353e85702d79d3dbf41be2",
+    "files": {
+      "README.md": "febe40baf5f54238baddbaeea01046863ecec72ff8d58fe46b07434d2ca60cc1",
+      "design.md": "a4cad372d2a1b9cce3e8f9b7e4f1da9478b092b93b0d82a21bf1246029f88d1e",
+      "index.html": "db04d017f9b1dbac42d41dc9c00003e81042870347af8c2e9ea8b0ed022b16c5",
+      "research.md": "1e6bf5fcb5c08777efc321f4dca5a08460e6138a0ea8e34416e4f0c03e9e9a80",
+      "tests.md": "f17aa738fd42ee3b18e177e7ee3e16d182af2e12a1452051717bbabfdef0b36b"
+    },
+    "refs": "8b4e589261ea4110e9e5f73b726b1fce7f912b79 refs/heads/main",
+    "new_url": "https://xiangjianan.github.io/daily-original-games/2026-09-23/",
+    "copy_verified": true
+  },
+  {
+    "source": "daily-original-game-2026-09-24",
+    "date": "2026-09-24",
+    "sha": "19ff8d6e914561cd6d71d7061e872ecbb9869c44",
+    "backup": "/Users/xiangjianan/Documents/Codex/game-repository-backups/2026-09-30/daily-original-game-2026-09-24",
+    "bundle_sha256": "114a5409d534e2a4249002a5db901ce1b093f41bfa9a8d6f91d88f23f9d33fa1",
+    "files": {
+      "README.md": "46ca0494f2b4a4d7639cbfe13b931cebfd08af4a2bbc94139f2123d3aa44d66c",
+      "design.md": "e9d26c6136ba050131904110c764bbcf568a9ac5129a555923bea549c8e7bfbf",
+      "index.html": "034350c751261b6a1349991545fa2113f48b8b0a8b9ab5eb687054a08c249be3",
+      "research.md": "8f4d418a8ed718ceffe293b2e660d1a61f08119b8d21a4818f834551cd8d87a1",
+      "tests.md": "dfb2a339cacdb7319814f138a7634453bcbd454a418ba28da8074b6a3f5ab1f4"
+    },
+    "refs": "19ff8d6e914561cd6d71d7061e872ecbb9869c44 refs/heads/main",
+    "new_url": "https://xiangjianan.github.io/daily-original-games/2026-09-24/",
+    "copy_verified": true
+  },
+  {
+    "source": "daily-original-game-2026-09-25",
+    "date": "2026-09-25",
+    "sha": "420e9eaf852e5af05bc599032893bb8344204ca0",
+    "backup": "/Users/xiangjianan/Documents/Codex/game-repository-backups/2026-09-30/daily-original-game-2026-09-25",
+    "bundle_sha256": "da230c13a0d46d98ae273aa8d950cf5e2f7a0d260475a786eb9c9757b16152a6",
+    "files": {
+      "README.md": "efd1b4edf3beca06577c4bfb4c0d370b672dd926d432160b1cdb3572bc20e960",
+      "design.md": "43a3a73c1589d7482a5c85883d8f8a454bdc575ff453880647b870685d4159d5",
+      "index.html": "a609c81341f4bc3ca6b2ffb3245f494d6a3754452a55e096032e895500d505e8",
+      "research.md": "1744956d7b3154eb2e91aef8a0feb8978bd56c90cdf3f4c8acd12c6ba65dd793",
+      "tests.md": "641ec1f8d9e66e9cb5e015b0d40c4b9ce46b769318ab476718fcb6298d6779ec"
+    },
+    "refs": "420e9eaf852e5af05bc599032893bb8344204ca0 refs/heads/main",
+    "new_url": "https://xiangjianan.github.io/daily-original-games/2026-09-25/",
+    "copy_verified": true
+  },
+  {
+    "source": "daily-original-game-2026-09-26",
+    "date": "2026-09-26",
+    "sha": "e05c1a635eeed538b6e5c2fb9c07833f75b9ff6b",
+    "backup": "/Users/xiangjianan/Documents/Codex/game-repository-backups/2026-09-30/daily-original-game-2026-09-26",
+    "bundle_sha256": "5404d1b4c6075dc1834ddd5b56244c40ce3203e8aa164746c1595e3e7ca5b1a0",
+    "files": {
+      "README.md": "9daa05e037ea1b13309cc9ba9a84cc22708ca9a1472e142b16733c6d45da6401",
+      "design.md": "fca91cf6fdd5fcdafcbacfbbb6bda06d942d841931f1b08def617c38e0233c2a",
+      "index.html": "7d8adbac4a638c5251908e0e55f372126995b720e554e6c58085c46e36fae529",
+      "research.md": "5d8a8081c545d6b5a3106e259331f69ceb78b0df710555a6b78a2f7ac757c73f",
+      "tests.md": "15f7a9b113985482289216755e1c3ea754b23ddf8a5282ff0d867011285098b4"
+    },
+    "refs": "e05c1a635eeed538b6e5c2fb9c07833f75b9ff6b refs/heads/main",
+    "new_url": "https://xiangjianan.github.io/daily-original-games/2026-09-26/",
+    "copy_verified": true
+  },
+  {
+    "source": "daily-original-game-2026-09-27",
+    "date": "2026-09-27",
+    "sha": "aeee939f302eb4fc0a664b3ca1e2eb7d7835a556",
+    "backup": "/Users/xiangjianan/Documents/Codex/game-repository-backups/2026-09-30/daily-original-game-2026-09-27",
+    "bundle_sha256": "6eb5068432e348c375baace3a6b53dbf1615d5442973507d27ccb60ce27afda7",
+    "files": {
+      "README.md": "0daf2e6df2d87f7b7740cc5f3571ebac40f7e61c61db3a3c78b36c68026404cc",
+      "design.md": "0fc632ecbed2243e78f55facea5408e9eb7a8196479d75450c4b4fc8f9fd8f6f",
+      "index.html": "d3387ffeff7fc16f14ccc2b492909c0c2993a5018efb34a69e9a64d95650caf9",
+      "research.md": "ed27c2da18c30e38adc0eb3d1eff7232bb1ae71ff68ff4e5a9b54018368c5310",
+      "tests.md": "b4c6573577057310702bc9df68ca82abbd8517687b6690cf6b7737ed234b9975"
+    },
+    "refs": "aeee939f302eb4fc0a664b3ca1e2eb7d7835a556 refs/heads/main\naeee939f302eb4fc0a664b3ca1e2eb7d7835a556 refs/remotes/origin/main",
+    "new_url": "https://xiangjianan.github.io/daily-original-games/2026-09-27/",
+    "copy_verified": true
+  },
+  {
+    "source": "daily-original-game-2026-09-28",
+    "date": "2026-09-28",
+    "sha": "676620e1bb6d3cb92d7dc922fbfeda6015ee144e",
+    "backup": "/Users/xiangjianan/Documents/Codex/game-repository-backups/2026-09-30/daily-original-game-2026-09-28",
+    "bundle_sha256": "505928b5226ab4744457b42fd775a122c49b9514c74453d66817099e9542badc",
+    "files": {
+      "README.md": "cb02d37fb1cb18b3bf90164afcc4bb62c3c63b69d22f2c578981b21131626580",
+      "design.md": "b470ee68f1d9a726cbc9114c73ae969a4b33f80b7886e793f68fbad41ae8f5f6",
+      "index.html": "6281574376f0c0f501ece249c7458e83697fa49ab5f67ac86ef8752c7fcde241",
+      "research.md": "a18142f73c007408160bb1cf329aad71795fe7da9d65b14bbd5788ad72a12636",
+      "tests.md": "aa37d12eec634fc69d579b5d2dcf9513b12eca4582bc40ef841b2bd3e0c67387"
+    },
+    "refs": "676620e1bb6d3cb92d7dc922fbfeda6015ee144e refs/heads/main\n676620e1bb6d3cb92d7dc922fbfeda6015ee144e refs/remotes/origin/main",
+    "new_url": "https://xiangjianan.github.io/daily-original-games/2026-09-28/",
+    "copy_verified": true
+  },
+  {
+    "source": "daily-original-game-2026-09-30",
+    "date": "2026-09-30",
+    "sha": "28fe76e0022467bee506a260a24e6dfe0a1a1144",
+    "backup": "/Users/xiangjianan/Documents/Codex/game-repository-backups/2026-09-30/daily-original-game-2026-09-30",
+    "bundle_sha256": "c1ddb25789f10f1caf5cc07c405adde26c2465ebb8c21517f21bda02de52ea1f",
+    "files": {
+      "README.md": "dce184ba1bb556145a86d625ce1a03c5ed10f4c2ef8f62f9eaa0b016a3c0e08e",
+      "design.md": "053ffc7475443409db35049691630fb62a462664b9a0fb9ed9ac4e983959e907",
+      "index.html": "86d3dcbc0fbd0326a2928c99cfa56a28aafd3de22aca170562bf3afa6b355850",
+      "research.md": "c612a09ceca65fd680c48b322e91be1f3ab392ba9005f677fd6f4d47e80df596",
+      "tests.md": "236375f73dbd7a973a05a39726f9a619e85c8302abce0236ee19292ea93b0383"
+    },
+    "refs": "28fe76e0022467bee506a260a24e6dfe0a1a1144 refs/heads/main\n28fe76e0022467bee506a260a24e6dfe0a1a1144 refs/remotes/origin/main",
+    "new_url": "https://xiangjianan.github.io/daily-original-games/2026-09-30/",
+    "copy_verified": true
+  }
+]

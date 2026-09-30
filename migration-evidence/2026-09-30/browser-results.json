@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2026-09-16",
+    "url": "https://xiangjianan.github.io/daily-original-games/2026-09-16/",
+    "exit": 0,
+    "output": "PASS 16: 30 drops, score, loss, restart, share, mute, layout, no JS errors\n"
+  },
+  {
+    "date": "2026-09-23",
+    "url": "https://xiangjianan.github.io/daily-original-games/2026-09-23/",
+    "exit": 0,
+    "output": "PASS: 18-step win, score, failure, restart, mute, share, mobile overflow, no JS errors\n"
+  },
+  {
+    "date": "2026-09-24",
+    "url": "https://xiangjianan.github.io/daily-original-games/2026-09-24/",
+    "exit": 0,
+    "output": "PASS: 3 levels, scoring, failure, restart, share, mute, keyboard, mobile/desktop, no JS errors\n"
+  },
+  {
+    "date": "2026-09-25",
+    "url": "https://xiangjianan.github.io/daily-original-games/2026-09-25/",
+    "exit": 0,
+    "output": "PASS: 12 orders, combo, selection/cancel, loss, restart, share, mute, keyboard, responsive, zero JS errors\n"
+  },
+  {
+    "date": "2026-09-26",
+    "url": "https://xiangjianan.github.io/daily-original-games/2026-09-26/",
+    "exit": 0,
+    "output": "PASS: complete 20 deliveries, merge scoring, overflow loss, restart, share, mute, keyboard, responsive, zero JS errors\n"
+  },
+  {
+    "date": "2026-09-27",
+    "url": "https://xiangjianan.github.io/daily-original-games/2026-09-27/",
+    "exit": 0,
+    "output": "PASS: six rounds, reverse recall, 1590 scoring, failure, restart, share, mute, keyboard, mobile/desktop, no JS errors\n"
+  },
+  {
+    "date": "2026-09-28",
+    "url": "https://xiangjianan.github.io/daily-original-games/2026-09-28/",
+    "exit": 0,
+    "output": "PASS: 18-turn completion, harvest, jam ending, invalid placement, restart, share, mute, keyboard, responsive, zero JS errors\n"
+  },
+  {
+    "date": "2026-09-30",
+    "url": "https://xiangjianan.github.io/daily-original-games/2026-09-30/",
+    "exit": 0,
+    "output": "PASS: full 16-box scoring, failure, restart, keyboard, audio context/mute, share fallback, mobile/desktop layout, no pageerrors\n"
+  }
+]
